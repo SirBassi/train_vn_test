@@ -1,3 +1,6 @@
+//scriptpath: @ATS\addons\ats_core\functions\track\fn_initTracks.sqf
+
+
 ATRAIN_Track_Definitions = missionNamespace getVariable ["ATRAIN_Track_Definitions",[]];
 
 // [Class Name, Center Point Offset, Is Split Track, Is End Track,Memory Point Height Offset]
